@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context="com.example.test.letschat.SesttingsActivity">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/Settings_img"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:src="@drawable/user1600" />
+
+    <TextView
+        android:id="@+id/seting_display_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif"
+        android:text="@string/dispaly_name"
+        android:textAlignment="center"
+        android:textColor="@color/colorWight"
+        android:textDirection="firstStrongLtr"
+        android:textSize="24sp"
+        android:layout_below="@+id/Settings_img"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp" />
+
+    <TextView
+        android:id="@+id/setings_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/seting_display_name"
+        android:layout_marginTop="20dp"
+        android:text="@string/defult_status"
+        android:textAlignment="center"
+        android:textColor="@color/colorWight"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/setting_img_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="67dp"
+        android:background="@color/colorWight"
+
+        android:text="@string/change_img"
+        android:layout_below="@+id/setings_status"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/setting_status_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/setting_img_btn"
+        android:layout_alignStart="@+id/setting_img_btn"
+        android:layout_below="@+id/setting_img_btn"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorWight"
+        android:text="@string/change_status" />
+
+</RelativeLayout>
