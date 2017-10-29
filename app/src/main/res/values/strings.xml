@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">"Lets Chat "</string>
+
+    <string name="needanewAccoun">Create  New Account</string>
+    <string name="CreateAccountBtn">Create Account</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="name">Name</string>
+    <string name="logout"> Log Out</string>
+    <string name="change_status"> CHANGE STAUTS</string>
+    <string name="change_img">CHANGE IMAGE</string>
+    <string name="defult_status">Hi There Im using Lets Chat App </string>
+    <string name="dispaly_name">Display Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
