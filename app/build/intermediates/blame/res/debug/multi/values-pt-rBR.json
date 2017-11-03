@@ -691,8 +691,160 @@
                     "startLine": 38,
                     "startColumn": 4,
                     "startOffset": 4697,
+                    "endColumn": 46,
+                    "endOffset": 4739
+                },
+                "from": {
+                    "file": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4744,
+                    "endColumn": 55,
+                    "endOffset": 4795
+                },
+                "from": {
+                    "file": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 55,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4800,
+                    "endColumn": 57,
+                    "endOffset": 4853
+                },
+                "from": {
+                    "file": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 57,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4858,
                     "endColumn": 84,
-                    "endOffset": 4777
+                    "endOffset": 4938
+                },
+                "from": {
+                    "file": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 84,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4943,
+                    "endColumn": 81,
+                    "endOffset": 5020
+                },
+                "from": {
+                    "file": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 81,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5025,
+                    "endColumn": 77,
+                    "endOffset": 5098
+                },
+                "from": {
+                    "file": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 77,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5103,
+                    "endColumn": 77,
+                    "endOffset": 5176
+                },
+                "from": {
+                    "file": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 461,
+                        "endColumn": 77,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5181,
+                    "endColumn": 85,
+                    "endOffset": 5262
+                },
+                "from": {
+                    "file": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 85,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5267,
+                    "endColumn": 84,
+                    "endOffset": 5347
                 },
                 "from": {
                     "file": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",
@@ -707,11 +859,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 4782,
+                    "startOffset": 5352,
                     "endColumn": 100,
-                    "endOffset": 4878
+                    "endOffset": 5448
                 },
                 "from": {
                     "file": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\values-pt-rBR\\values-pt-rBR.xml",

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml
@@ -21,25 +21,32 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
 		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\PHP2\.android\build-cache\d6f9978279ec710782151cdc5e5e7da80dc8285f\output\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\PHP2\.android\build-cache\3847ccad42eda4d3bc6e290e64f29c2e7d9a6551\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\PHP2\.android\build-cache\a0e97c44215302743f6086e0293ca8ca20ca2f65\output\AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\PHP2\.android\build-cache\54bdc2ac429422e42dc4bfbabb12446970fc3e22\output\AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:8:22-64
 application
-ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:10:5-31:19
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:10:5-42:19
 MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\32c7327568512696c664cb53a3f21851ba364071\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\9546dce0348da9c45f6609fdaf8298699c1269cb\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\a8b852a570a6aa37a73c9435717a19c720265d84\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\34627c8caf484a7c0321ff0cf1f6ef3a2ae753c0\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\d669dc3cfd4a20c995447c54ed9cc13162a51b74\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PHP2\.android\build-cache\f5bd6ba4acba00a8d474bf4e9dc92c63afde04bb\output\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\PHP2\.android\build-cache\207230254e3f30e0e01007d9cec66f13ea0e777a\output\AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\PHP2\.android\build-cache\71c0df11703d03d512c2fafb6c4cc802bd59b8bb\output\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\PHP2\.android\build-cache\5c8e394a5965ebb892e3efacb37ee740bcf26c3d\output\AndroidManifest.xml:19:5-29:19
 MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\PHP2\.android\build-cache\62fd22d1799f08cdb1a588a1663170345ae6a144\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:exifinterface:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\187cb02965412079b2fc33674ed0205d630581fd\output\AndroidManifest.xml:26:5-20
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\PHP2\.android\build-cache\d6f9978279ec710782151cdc5e5e7da80dc8285f\output\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\9546dce0348da9c45f6609fdaf8298699c1269cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\a8b852a570a6aa37a73c9435717a19c720265d84\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\34627c8caf484a7c0321ff0cf1f6ef3a2ae753c0\output\AndroidManifest.xml:26:5-20
 MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\PHP2\.android\build-cache\2bb8a395b8b5bfac799c0482a57bf8cd5a616199\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\PHP2\.android\build-cache\3847ccad42eda4d3bc6e290e64f29c2e7d9a6551\output\AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\PHP2\.android\build-cache\a0e97c44215302743f6086e0293ca8ca20ca2f65\output\AndroidManifest.xml:24:5-28:19
@@ -90,34 +97,58 @@ ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:25:9-
 	android:name
 		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:26:13-45
 activity#com.example.test.letschat.LoginActivity
-ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:28:9-51
-	android:name
-		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:28:19-48
-activity#com.example.test.letschat.SesttingsActivity
-ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:29:9-55
-	android:name
-		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:29:19-52
-activity#com.example.test.letschat.StatusActivity
-ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:30:9-110
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:28:9-30:58
 	android:parentActivityName
-		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:30:50-97
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:30:13-55
 	android:name
-		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:30:19-49
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:29:13-42
+activity#com.example.test.letschat.SesttingsActivity
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:31:9-55
+	android:name
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:31:19-52
+activity#com.example.test.letschat.StatusActivity
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:32:9-34:63
+	android:parentActivityName
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:34:13-60
+	android:name
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:33:13-43
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:35:9-37:59
+	android:theme
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:36:13-76
+activity#com.example.test.letschat.UsersAcitivity
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:38:9-40:58
+	android:parentActivityName
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:40:13-55
+	android:name
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:39:13-43
+activity#com.example.test.letschat.ProfileActivity
+ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:41:9-62
+	android:name
+		ADDED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml:41:19-50
 uses-sdk
 INJECTED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\32c7327568512696c664cb53a3f21851ba364071\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\9546dce0348da9c45f6609fdaf8298699c1269cb\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\a8b852a570a6aa37a73c9435717a19c720265d84\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\34627c8caf484a7c0321ff0cf1f6ef3a2ae753c0\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\5ddb190d8e228ea0c2fa3c1669f8dd0be7ad9d16\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\d669dc3cfd4a20c995447c54ed9cc13162a51b74\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PHP2\.android\build-cache\f5bd6ba4acba00a8d474bf4e9dc92c63afde04bb\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\PHP2\.android\build-cache\207230254e3f30e0e01007d9cec66f13ea0e777a\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\PHP2\.android\build-cache\71c0df11703d03d512c2fafb6c4cc802bd59b8bb\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\PHP2\.android\build-cache\5c8e394a5965ebb892e3efacb37ee740bcf26c3d\output\AndroidManifest.xml:17:5-42
 MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\PHP2\.android\build-cache\62fd22d1799f08cdb1a588a1663170345ae6a144\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.1] C:\Users\PHP2\.android\build-cache\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\187cb02965412079b2fc33674ed0205d630581fd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\PHP2\.android\build-cache\6cda1991f2ef21a4ce7ace993864fd4a5896d676\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\PHP2\.android\build-cache\3563c82ac5621556797cc38411039729e7f3bfbc\output\AndroidManifest.xml:3:5-42
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\PHP2\.android\build-cache\d6f9978279ec710782151cdc5e5e7da80dc8285f\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\9546dce0348da9c45f6609fdaf8298699c1269cb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\a8b852a570a6aa37a73c9435717a19c720265d84\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\34627c8caf484a7c0321ff0cf1f6ef3a2ae753c0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\5ddb190d8e228ea0c2fa3c1669f8dd0be7ad9d16\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\PHP2\.android\build-cache\9088b14721d7da3916e27631455d0577c97c6661\output\AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\PHP2\.android\build-cache\45c533e243b856aa5c2377beda098e7c481a3084\output\AndroidManifest.xml:3:5-42
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\PHP2\.android\build-cache\ceb5cbe77c86313d17b5e5c8affcb84260e9a2a1\output\AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\PHP2\.android\build-cache\2bb8a395b8b5bfac799c0482a57bf8cd5a616199\output\AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\PHP2\.android\build-cache\3847ccad42eda4d3bc6e290e64f29c2e7d9a6551\output\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\PHP2\.android\build-cache\a0e97c44215302743f6086e0293ca8ca20ca2f65\output\AndroidManifest.xml:17:5-42
@@ -141,11 +172,12 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\PHP2\.an
 		INJECTED from C:\Users\PHP2\Desktop\LetsChat\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\32c7327568512696c664cb53a3f21851ba364071\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\d669dc3cfd4a20c995447c54ed9cc13162a51b74\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:exifinterface:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\187cb02965412079b2fc33674ed0205d630581fd\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\9546dce0348da9c45f6609fdaf8298699c1269cb\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\a8b852a570a6aa37a73c9435717a19c720265d84\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\34627c8caf484a7c0321ff0cf1f6ef3a2ae753c0\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\5ddb190d8e228ea0c2fa3c1669f8dd0be7ad9d16\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\d669dc3cfd4a20c995447c54ed9cc13162a51b74\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\0c3683643eddc25bbe19962370502c4b0254348b\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\23e1436a1e9d180d51a72dcad591bae120bba163\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\PHP2\.android\build-cache\1fd47171091b525792f78d813b79627f3e762c84\output\AndroidManifest.xml:25:5-27:41
@@ -178,6 +210,13 @@ action#com.google.firebase.MESSAGING_EVENT
 ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\PHP2\.android\build-cache\5c8e394a5965ebb892e3efacb37ee740bcf26c3d\output\AndroidManifest.xml:25:17-77
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\PHP2\.android\build-cache\5c8e394a5965ebb892e3efacb37ee740bcf26c3d\output\AndroidManifest.xml:25:25-75
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\PHP2\.android\build-cache\d6f9978279ec710782151cdc5e5e7da80dc8285f\output\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\PHP2\.android\build-cache\15d533e18a3b0c0db92216ffb339e33aaeff4e5f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\PHP2\.android\build-cache\d6f9978279ec710782151cdc5e5e7da80dc8285f\output\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\PHP2\.android\build-cache\d6f9978279ec710782151cdc5e5e7da80dc8285f\output\AndroidManifest.xml:15:13-58
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\PHP2\.android\build-cache\3847ccad42eda4d3bc6e290e64f29c2e7d9a6551\output\AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\PHP2\.android\build-cache\a0e97c44215302743f6086e0293ca8ca20ca2f65\output\AndroidManifest.xml:21:5-78
@@ -288,9 +327,3 @@ ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\PHP2\.android\b
 		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\PHP2\.android\build-cache\d9c197b3c3ebcf57db2f855fe83933dc3b21fb9a\output\AndroidManifest.xml:6:169-192
 	android:name
 		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\PHP2\.android\build-cache\d9c197b3c3ebcf57db2f855fe83933dc3b21fb9a\output\AndroidManifest.xml:6:79-143
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\PHP2\.android\build-cache\15d533e18a3b0c0db92216ffb339e33aaeff4e5f\output\AndroidManifest.xml:20:9-121
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\PHP2\.android\build-cache\15d533e18a3b0c0db92216ffb339e33aaeff4e5f\output\AndroidManifest.xml:20:66-119
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\PHP2\.android\build-cache\15d533e18a3b0c0db92216ffb339e33aaeff4e5f\output\AndroidManifest.xml:20:20-65

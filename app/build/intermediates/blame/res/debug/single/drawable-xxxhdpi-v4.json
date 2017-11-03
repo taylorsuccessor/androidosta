@@ -36,6 +36,10 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\crop_image_menu_flip.png",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\drawable-xxxhdpi-v4\\crop_image_menu_flip.png"
+    },
+    {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -46,6 +50,10 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\crop_image_menu_rotate_left.png",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\drawable-xxxhdpi-v4\\crop_image_menu_rotate_left.png"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
@@ -98,6 +106,10 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\crop_image_menu_rotate_right.png",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\drawable-xxxhdpi-v4\\crop_image_menu_rotate_right.png"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",

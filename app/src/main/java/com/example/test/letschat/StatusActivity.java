@@ -50,11 +50,15 @@ private Toolbar mToolbar;
         mToolbar.setTitleTextColor(Color.WHITE);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-
+        String statusvalue=getIntent().getStringExtra("statusvalue");
 
 
         mstatus = (TextInputLayout) findViewById(R.id.status_input);
         mSaveStatus= (Button) findViewById(R.id.status_save_btn);
+
+        mstatus.getEditText().setText(statusvalue);
+
+
         mSaveStatus.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

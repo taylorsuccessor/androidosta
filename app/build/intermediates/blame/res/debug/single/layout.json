@@ -32,12 +32,20 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image_view.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\layout\\crop_image_view.xml"
+    },
+    {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_requests.xml",
         "source": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\src\\main\\res\\layout\\fragment_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image_activity.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\\output\\res\\layout\\crop_image_activity.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
@@ -148,6 +156,10 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\users_single_layout.xml",
+        "source": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\src\\main\\res\\layout\\users_single_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
@@ -178,6 +190,10 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\32c7327568512696c664cb53a3f21851ba364071\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_users_acitivity.xml",
+        "source": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\src\\main\\res\\layout\\activity_users_acitivity.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -222,6 +238,14 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_users.xml",
+        "source": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\src\\main\\res\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chats.xml",

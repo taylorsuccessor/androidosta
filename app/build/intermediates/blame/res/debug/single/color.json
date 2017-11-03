@@ -20,16 +20,16 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\32c7327568512696c664cb53a3f21851ba364071\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
@@ -58,6 +58,10 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\86ebaf447fd0df02fd2033f06dc291953cf73456\\output\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",

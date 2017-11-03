@@ -4,7 +4,7 @@
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -25,9 +25,20 @@
         <activity
             android:name=".RegisterActivity"
             android:parentActivityName=".StartActivity" />
-        <activity android:name=".LoginActivity" />
+        <activity
+            android:name=".LoginActivity"
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".SesttingsActivity" />
-        <activity android:name=".StatusActivity" android:parentActivityName=".SesttingsActivity" ></activity>
+        <activity
+            android:name=".StatusActivity"
+            android:parentActivityName=".SesttingsActivity" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity
+            android:name=".UsersAcitivity"
+            android:parentActivityName=".MainActivity" />
+        <activity android:name=".ProfileActivity"></activity>
     </application>
 
 </manifest>
