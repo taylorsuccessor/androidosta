@@ -1,4 +1,7 @@
-#Fri Oct 27 21:36:23 EET 2017
-base.0=C\:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Oct 29 11:22:16 EET 2017
+base.0=C\:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_433f1586545917735c532134ac43a6fcdeb7300d
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_38639959bef15487ec813522e152242743135312\\classes.dex
+base.1=C\:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_38639959bef15487ec813522e152242743135312
+file.0=C\:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_433f1586545917735c532134ac43a6fcdeb7300d\\classes.dex

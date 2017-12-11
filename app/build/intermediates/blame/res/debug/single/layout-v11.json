@@ -1,11 +1,31 @@
 [
     {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
@@ -22,5 +42,9 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\layout-v11\\notification_template_big_media.xml"
     }
 ]

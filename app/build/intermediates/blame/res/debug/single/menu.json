@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
         "source": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\xampp\\htdocs\\androidosta\\app\\src\\main\\res\\menu\\main_menu.xml"
     }
 ]

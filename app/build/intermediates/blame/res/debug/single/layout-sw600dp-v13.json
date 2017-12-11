@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\32c7327568512696c664cb53a3f21851ba364071\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\00dba61c610c4052e5ba98c1b10fb892f22b60b4\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

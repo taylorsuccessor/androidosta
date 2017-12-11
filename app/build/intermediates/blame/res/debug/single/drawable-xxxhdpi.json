@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\user1600.png",
         "source": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\src\\main\\res\\drawable-xxxhdpi\\user1600.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\user1600.png",
+        "source": "C:\\xampp\\htdocs\\androidosta\\app\\src\\main\\res\\drawable-xxxhdpi\\user1600.png"
     }
 ]

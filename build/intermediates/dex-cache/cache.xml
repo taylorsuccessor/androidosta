@@ -2,31 +2,265 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\PHP2\.android\build-cache\62fd22d1799f08cdb1a588a1663170345ae6a144\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\79fda53cfec043fd43576673d4035da261e6f6c7\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
-        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\classes_a1f9e79358abb37aba1ad17614389f6617fec874.jar" />
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8f490ab33097d4d41ac112d80ce507886775fab\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\PHP2\.android\build-cache\45c533e243b856aa5c2377beda098e7c481a3084\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\7857b6d6f903c260ee1db2b6299763e14d2e4b44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1edef6c1766b8fd27c4b968ba62a20bf3f82bd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\0cbb8e9a1398fb388272e42207b9cf3e342f0e8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2982b4b924d8d3683b759feadec70ccfc80c46eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\xampp\htdocs\androidosta\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_433f1586545917735c532134ac43a6fcdeb7300d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\c146c32718fcf3a16510781f9af797b7e90a65a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5cf5c4d6565a554d781adaeb0e69c0696ff2f49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\25be4dec1e58e807f6c6078a9ef75e00a98ef325\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd024810c2af5aa91b7bf59ae20d1297da3a9925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\4651d39ace39f8a9d7fcb1a01a7ef8a0b8ff526f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_044c1e773796f87ec903ec908218a121bdd56063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\79affee438f8e644665a64118520c50673d81120\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8029c37bd8396c1941b8c573512d89e48130c2bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_5d3bbb8f244b5632565128c23100aea9ff06f033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\849e238c9858b25252d9433500b8e86b008de459\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_754d0a22a2848e0dde42500b83f7f73e86a5bba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a73b674c9040d4a022eb33c24cac86afcf5fce10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_603d5a2dee449ffde7f1a5c290b70a0af8e870ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\b19d90b89f84475a55b6fa5d739ae65923b85d41\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00bc93d3f0ad5176878c12e0d499e7e23a7d64c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\03a3ca76245930f065551aa1beb47d00383ddd5b\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
-        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\classes_10c777db2d656722f21767f08f703fd4812967d8.jar" />
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a1051d12b488c2629915a7253e49b0dc190bb99\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\PHP2\.android\build-cache\9088b14721d7da3916e27631455d0577c97c6661\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a07561be94e7c925891c87f64f0244a191d811f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efeedc371bceb6392cde6481a933c269b64ab034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\00dba61c610c4052e5ba98c1b10fb892f22b60b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b116213dffc1ba5437bb0d039d2e5dca5f696c42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\afe7d8210ea4ae569f4a4d41fe4f620cb10f77f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5879866882a38decd7a28dca10675afd90f104c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\38ce93fae126bc54b67765ec16917502594e939f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfd1802d1c58f451af3b9af98da2ecbaacb92d24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\b4836c00ec2610b6bc22d21f760b6672093f3663\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f35673b18cb808710c71185f5cf2a4434446b66b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\b83eb64579bc4fc73fc5764c9f202f3641abe886\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_789ef2a30c116e07c18b177355ebccde0b0ef40f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\286089311c2782567855ddffeaf00de0e5d45672\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d08a942e4bdbaefcd030ab834cc4af012596d323\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\f0faf3a74b685a81c7f8e5cd43d22a92822e2756\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9558a92ccc34bd9b79d68f9b800437ee43acbc5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9bfc8eea6d3a884966c5d20311ecf2c0157f5a4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\c15be10db493b9cc6bde2dd5d9c2e1e6e55ea483\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0dcdac9199c5da327fb2d2ab07dc395c4381c3a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\ae291fca810ca38dada0ec9cff5d598a2f290a8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67aa1daf272c01e035d66e8ab952b7d757aa24d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\ba606315d8a5702d77ddf157f94eed897ac0ace8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0741011d7c1d132c9fd2d8e8ae98549343393ce9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\e7e323957a970195f9c29f28160a98f384f1780f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4269f7f489da33ea59dd62dfa789c9ac773b6f2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\69c638c110bf4800298323ad49be4ba3f8185680\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06dcae587dee8d7d744d21c627c20ee978221d82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\xampp\htdocs\androidosta\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79a8e5be24abe85f51bac9e152e2cf2be0de4285">
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_38639959bef15487ec813522e152242743135312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\a0e5f0fd50c1e793631cbc790e98268e7f760a8b\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
-        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\classes_098b54bcf20b3d96a6ec1615156ae53fadc47791.jar" />
+        <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1264d9337cd6addf65f5fd9c38aeae0a3bc91be2\classes.dex" />
     </item>
 
 </items>
