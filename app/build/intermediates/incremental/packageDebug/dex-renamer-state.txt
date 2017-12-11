@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 #Sun Oct 29 11:22:16 EET 2017
 base.0=C\:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_433f1586545917735c532134ac43a6fcdeb7300d
 renamed.1=classes2.dex
+=======
+#Fri Nov 03 21:36:26 EET 2017
+base.0=C\:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
 renamed.0=classes.dex
 file.1=C\:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_38639959bef15487ec813522e152242743135312\\classes.dex
 base.1=C\:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_38639959bef15487ec813522e152242743135312

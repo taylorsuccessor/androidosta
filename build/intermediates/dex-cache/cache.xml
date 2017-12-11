@@ -2,9 +2,24 @@
 <items version="2" >
 
     <item
+<<<<<<< HEAD
         is-multidex="true"
         jar="C:\Users\HP\.android\build-cache\79fda53cfec043fd43576673d4035da261e6f6c7\output\jars\classes.jar"
         jumboMode="true"
+=======
+        is-multidex="false"
+        jar="C:\Users\PHP2\.android\build-cache\d6f9978279ec710782151cdc5e5e7da80dc8285f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e7ccc1d51d89540ea7ad426a1934204b674939b">
+        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\classes_7b49d787204c4987987d3528199a89ac3b8b53da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PHP2\.android\build-cache\62fd22d1799f08cdb1a588a1663170345ae6a144\output\jars\classes.jar"
+        jumboMode="false"
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
         optimize="true"
         revision="26.0.1"
         sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
@@ -29,6 +44,7 @@
         <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2982b4b924d8d3683b759feadec70ccfc80c46eb\classes.dex" />
     </item>
     <item
+<<<<<<< HEAD
         is-multidex="true"
         jar="C:\xampp\htdocs\androidosta\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
@@ -261,6 +277,60 @@
         revision="26.0.1"
         sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
         <dex dex="C:\xampp\htdocs\androidosta\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1264d9337cd6addf65f5fd9c38aeae0a3bc91be2\classes.dex" />
+=======
+        is-multidex="false"
+        jar="C:\Users\PHP2\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_298736f637ac675eac6780414bcf555cbe7d306b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PHP2\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\rxjava-2.1.0_45ab76b00973c07dae7c5aa1704bed05ce532ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PHP2\.android\build-cache\ceb5cbe77c86313d17b5e5c8affcb84260e9a2a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\classes_2a711c299b0193230771a898701ffd65603c52dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PHP2\.android\build-cache\187cb02965412079b2fc33674ed0205d630581fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b13b092abc01309e88a63babaa9f5b082b1c852">
+        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\classes_18354a3660fc9427f09f541cf7e36ceac7686356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PHP2\.android\build-cache\60ea54a0a63f27ccbb454fbd0ed39fea9838a42f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c743a2fd48eaf8ea5eac0bdfa23c654ca4d0fd74">
+        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\classes_bb150f157ed9873360a2fb075c71a3cc655b2847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PHP2\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\PHP2\Desktop\LetsChat\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_bcfea4618ddd8ea33a41f00f1253f86381b02ed4.jar" />
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
     </item>
 
 </items>

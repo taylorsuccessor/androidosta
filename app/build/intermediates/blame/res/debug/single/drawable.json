@@ -16,6 +16,7 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\849e238c9858b25252d9433500b8e86b008de459\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\71c0df11703d03d512c2fafb6c4cc802bd59b8bb\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
@@ -34,6 +35,14 @@
     {
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+=======
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\86ebaf447fd0df02fd2033f06dc291953cf73456\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
@@ -56,12 +65,15 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
+<<<<<<< HEAD
+=======
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
@@ -72,16 +84,25 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\71c0df11703d03d512c2fafb6c4cc802bd59b8bb\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+=======
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\86ebaf447fd0df02fd2033f06dc291953cf73456\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_dialog_material_background.xml"
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -128,6 +149,7 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\71c0df11703d03d512c2fafb6c4cc802bd59b8bb\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
@@ -146,6 +168,10 @@
     {
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\notification_tile_bg.xml"
+=======
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\86ebaf447fd0df02fd2033f06dc291953cf73456\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
@@ -156,6 +182,7 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\00dba61c610c4052e5ba98c1b10fb892f22b60b4\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
@@ -176,6 +203,16 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
+=======
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
@@ -184,6 +221,7 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
@@ -192,6 +230,8 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+=======
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\71c0df11703d03d512c2fafb6c4cc802bd59b8bb\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
@@ -200,6 +240,7 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\849e238c9858b25252d9433500b8e86b008de459\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
@@ -208,10 +249,13 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\00dba61c610c4052e5ba98c1b10fb892f22b60b4\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
+=======
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
@@ -222,12 +266,17 @@
     {
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_dialog_material_background.xml"
+=======
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\86ebaf447fd0df02fd2033f06dc291953cf73456\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\notification_bg.xml"
     },
@@ -238,6 +287,10 @@
     {
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_textfield_search_material.xml"
+=======
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crop_image_menu_crop_stub.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\f932608b91f8351791b95d5db4843244eb36692f\\output\\res\\drawable\\crop_image_menu_crop_stub.xml"
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
@@ -248,6 +301,7 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
@@ -256,6 +310,8 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+=======
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
@@ -264,8 +320,13 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\notification_bg.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\849e238c9858b25252d9433500b8e86b008de459\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+=======
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\86ebaf447fd0df02fd2033f06dc291953cf73456\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
@@ -276,6 +337,7 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
@@ -304,6 +366,8 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+=======
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
@@ -312,12 +376,17 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_vector_test.xml"
+=======
+        "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\PHP2\\.android\\build-cache\\86ebaf447fd0df02fd2033f06dc291953cf73456\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
     },
     {
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -336,6 +405,7 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
@@ -344,6 +414,8 @@
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
+=======
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\71c0df11703d03d512c2fafb6c4cc802bd59b8bb\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
@@ -356,10 +428,13 @@
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\xampp\\htdocs\\androidosta\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\HP\\.android\\build-cache\\a73b674c9040d4a022eb33c24cac86afcf5fce10\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
+=======
+>>>>>>> 99c5186beee6747003711cdd9a32a96494039551
         "merged": "C:\\Users\\PHP2\\Desktop\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\PHP2\\.android\\build-cache\\9546dce0348da9c45f6609fdaf8298699c1269cb\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
